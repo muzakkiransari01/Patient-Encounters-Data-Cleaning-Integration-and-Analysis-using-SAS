@@ -1,0 +1,6 @@
+PatientsID,DateOfBirth,Sex,Phone,City,VisitDate,Department,Charges,Status,Age,PaidFlag
+P001,12MAR1985,F,9876543210,Mumbai,01MAR2024,Cardiology,1.00,Yes,39,1
+P002,05JUL1988,M,9876543210,Mumbai,01APR2024,Orthopedics,1.00,No,36,0
+P003,05NOV1990,F,,Mumbai,15MAY2024,ENT,200.00,Cancelled,34,0
+P004,27FEB1987,M,,Pune,05JUN2024,ENT,900.50,Completed,37,1
+P005,15AUG2019,F,,Thane,07JUN2024,Orthopedics,2.00,Yes,5,1

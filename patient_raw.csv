@@ -1,0 +1,6 @@
+patient_id,full_name,dob,sex,phone,city
+ P001,Riya Sharma,12/03/1985,F,9876543210,Mumbai
+p-002,Aman Verma,1988-07-05,Male,(+91) 98765 43210,mumbai
+003,Sara Khan,05-11-1990,female,N/A,MUM
+P004,Vikram Singh,31/02/1987,M,---,Pune
+p005,Anita Iyer,15-Aug-1992,F,,Thane

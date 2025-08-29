@@ -1,0 +1,6 @@
+appointment_id,patient_id,visit_date,department,charges,paid,status
+A1001,P001,2024-03-01,Cardiology,₹1,500.00,Yes,Completed
+A1002,p-002,01/04/2024,ORTHO,1,250,no,Completed
+A1003,003,15-05-2024,ENT,$200,1,Cancelled
+A1004,P004,2024/06/05,ENT,900.50,0,Completed
+A1005,p005,07.06.2024,Orthopedics, INR 2,000 ,Y,Completed
